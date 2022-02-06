@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ivenyarovoy
+- 👀 I’m interested in data analysis, python canoodling and helping out some cool projects
+- 🌱 I’m currently learning chess programming
+- 📫 How to reach me: iven.yarovoy@gmail.com
